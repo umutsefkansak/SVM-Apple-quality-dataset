@@ -1,3 +1,7 @@
+
+# kaggle= https://www.kaggle.com/code/umutsefkansak/apple-quality-with-svm-90-and-knn-90/notebook
+
+
 # Libraries
 import pandas as pd
 import numpy as np
